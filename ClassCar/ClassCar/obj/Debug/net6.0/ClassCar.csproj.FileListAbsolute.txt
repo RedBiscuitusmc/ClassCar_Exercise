@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\bin\Debug\net6.0\ClassCar.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\bin\Debug\net6.0\ClassCar.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\bin\Debug\net6.0\ClassCar.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\bin\Debug\net6.0\ClassCar.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\bin\Debug\net6.0\ClassCar.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\refint\ClassCar.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ClassCar.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\ClassCarexe\ClassCar\ClassCar\obj\Debug\net6.0\ref\ClassCar.dll
